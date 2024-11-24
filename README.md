@@ -7,6 +7,8 @@
 ![Élisson GitHub stats](https://github-readme-stats.vercel.app/api?username=barbosaelisson&show_icons=true&theme=highcontrast)
 
 
+
+
 ### Tecnologias que uso no meu dia! 
 
 <div style="display: inline_block"></br>
@@ -22,6 +24,6 @@
 
 Apaixonado por tecnologia, sempre em busca de novos desafios para aprender, criar e transformar ideias em soluções inovadoras.
 
-## Email
+## Email 📧
 
 barbosaelisson1@gmail.com
